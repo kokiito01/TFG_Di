@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Reporsitorios\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj": {}
+    "C:\\GITHUB\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj": {}
   },
   "projects": {
-    "D:\\Reporsitorios\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj": {
+    "C:\\GITHUB\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Reporsitorios\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj",
+        "projectUniqueName": "C:\\GITHUB\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj",
         "projectName": "TFG_di",
-        "projectPath": "D:\\Reporsitorios\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj",
-        "packagesPath": "C:\\Users\\xxelm\\.nuget\\packages\\",
-        "outputPath": "D:\\Reporsitorios\\TFG_Di\\TFG_Di\\TFG_di\\obj\\",
+        "projectPath": "C:\\GITHUB\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\GITHUB\\TFG_Di\\TFG_Di\\TFG_di\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\xxelm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
