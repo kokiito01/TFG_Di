@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel>
-            <TextBlock Text="HOLA PROBANDO MARTES"/>
+            <TextBlock Text="HOLA PROBANDO MIERCOLES"/>
         </StackPanel>
     </Grid>
 </Window>
