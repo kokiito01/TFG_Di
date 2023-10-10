@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ADM_DAMB_12\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADM_DAMB_12\\PAULA\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj",
+      "projectUniqueName": "C:\\GITHUB\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj",
       "projectName": "TFG_di",
-      "projectPath": "C:\\Users\\ADM_DAMB_12\\PAULA\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj",
-      "packagesPath": "C:\\Users\\ADM_DAMB_12\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADM_DAMB_12\\PAULA\\TFG_Di\\TFG_Di\\TFG_di\\obj\\",
+      "projectPath": "C:\\GITHUB\\TFG_Di\\TFG_Di\\TFG_di\\TFG_di.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\GITHUB\\TFG_Di\\TFG_Di\\TFG_di\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADM_DAMB_12\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
