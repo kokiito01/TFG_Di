@@ -1,0 +1,18 @@
+﻿<Application x:Class="Prueba1Pau.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Prueba1Pau"
+             StartupUri="View/LoginView.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--diccionario de recursos combinado-->
+                <ResourceDictionary Source="\styles\colors.xaml"/>
+                <ResourceDictionary Source="\styles\ButtonStyles.xaml"/>
+                <ResourceDictionary Source="\styles\textos.xaml"/>
+                <ResourceDictionary Source="\styles\viewTextos.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+    </Application.Resources>
+</Application>

@@ -1,0 +1,45 @@
+<ResourceDictionary  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="txtComercio">El comercio es como un intercambio o trueque moderno. Imagina que tienes juguetes, y un amigo tuyo tiene libros. 
+        Si decides intercambiar uno de tus juguetes por uno de sus libros, eso es comercio. 
+        Es cuando las personas intercambian cosas que tienen por cosas que desean. 
+        Puedes comerciar en la tienda cuando compras un helado a cambio de dinero, o incluso en casa cuando intercambias tu tarea de limpiar tu habitación por una recompensa. 
+        El comercio es importante porque nos permite obtener lo que necesitamos o deseamos de otras personas.</system:String>
+
+    <system:String x:Key="txtEconomia">
+        La economía es como una especie de juego o sistema en el que todos participamos. Imagina que tienes una cantidad limitada de dinero y debes decidir cómo gastarlo. 
+        Debes pensar en qué cosas son realmente importantes y cómo puedes ahorrar o gastar tu dinero sabiamente. 
+        La economía no es solo sobre el dinero, también se trata de cómo las personas trabajan, ganan dinero y deciden qué producir y vender. 
+        En la economía, las personas intentan tomar decisiones inteligentes para vivir cómodamente y hacer crecer su bienestar.
+    </system:String>
+
+    <system:String x:Key="txtBienes">
+        Los bienes son cosas tangibles, es decir, objetos físicos que puedes ver, tocar y tener. Son cosas que se pueden comprar y poseer. 
+        Algunos ejemplos de bienes son juguetes, ropa, bicicletas, libros, comida, y hasta tu mochila de la escuela. 
+        Estos son objetos que puedes guardar en tu habitación y usar cuando lo desees.
+    </system:String>
+
+    <system:String x:Key="txtServicios">
+        Los servicios son cosas que las personas hacen por ti, en lugar de darte un objeto. Piensa en los servicios como acciones o trabajos que te ayudan de alguna manera. 
+        Por ejemplo, cuando un peluquero corta tu cabello, te está proporcionando un servicio. Lo mismo ocurre cuando un médico te cuida cuando estás enfermo o cuando un maestro te enseña en la escuela. 
+        Incluso cuando alguien arregla tu bicicleta o te entrega el correo, están brindando un servicio.
+    </system:String>
+
+    <system:String x:Key="txtMoneda">
+        La moneda es un medio de intercambio utilizado en una economía para comprar bienes y servicios. 
+        Es una forma de representar el valor de los productos y servicios en una sociedad. 
+        Las monedas pueden ser físicas (como monedas de metal y billetes de papel) o digitales (como tarjetas de débito y criptomonedas).
+        La moneda facilita el comercio y la economía al proporcionar una forma universalmente aceptada para medir y realizar intercambios valiosos (transacciones de valor). 
+        Permite a las personas intercambiar bienes y servicios de manera eficiente.
+    </system:String>
+
+    <system:String x:Key="txtMoneda2">
+        La moneda es un medio de intercambio utilizado en una economía para comprar bienes y servicios. 
+        Es una forma de representar el valor de los productos y servicios en una sociedad. 
+        Las monedas pueden ser físicas (como monedas de metal y billetes de papel) o digitales (como tarjetas de débito y criptomonedas).
+        La moneda facilita el comercio y la economía al proporcionar una forma universalmente aceptada para medir y realizar intercambios valiosos (transacciones de valor). 
+        Permite a las personas intercambiar bienes y servicios de manera eficiente.
+    </system:String>
+    
+</ResourceDictionary>
