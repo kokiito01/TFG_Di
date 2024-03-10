@@ -1,4 +1,0 @@
-SELECT city.CityName
-FROM city
-JOIN country ON city.CountryCode = country.idCountry
-WHERE country.CountryName = 'Spain';
